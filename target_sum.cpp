@@ -1,4 +1,6 @@
 //target sum
+//time complexity:O(n^2)
+//space complexity:O(n+n^2)
 #include<bits/stdc++.h>
 using namespace std;
 
